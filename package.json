@@ -1,0 +1,17 @@
+{
+  "name": "readline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readline.js",
+  "type": "module",
+  "scripts": {
+    "start": "node enquirer.js",
+    "begin": "node readline.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}
